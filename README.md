@@ -10,7 +10,7 @@ My specialties are **building on, attacking, and hardening Kubernetes, Google Cl
 * **Employment Type:** Full time employee
 * **Example Roles:** Security Advocacy, Product Security Research
 
-**My CV is available [online](https://bgeesaman.github.io) or [PDF](https://github.com/bgeesaman/bgeesaman.github.io/raw/main/BradGeesaman_CV.pdf)**
+For more details about my experience, **my CV/Résumé 📄 is directly available [online](https://bgeesaman.github.io) or as a [PDF](https://github.com/bgeesaman/bgeesaman.github.io/raw/main/BradGeesaman_CV.pdf)**
 
 If you’re looking for experienced talent to help your community understand how to make securing cloud-native systems and tools easier, I’d love to chat.  Some of the topics I'd like to discuss with you:
 
