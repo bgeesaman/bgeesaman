@@ -15,9 +15,10 @@ For more details about my experience, **my CV/Résumé 📜 is directly availabl
 If you’re looking for experienced talent to help your community understand how to make securing cloud-native systems and tools easier, I’d love to chat.  Some of the topics I'd like to discuss with you:
 
 * What is the mission of your organization?
-* What challenges are most pressing to you?
+* What challenges are most pressing to you or your customers?
 * Where do you think I can do the most good?
 * What is the makeup of the team/org structure?
+* How does the team/org contribute back to the community?
 * What is your interview process like?
 * What is your hiring timeline for this position?
 
