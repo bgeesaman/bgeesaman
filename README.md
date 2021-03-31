@@ -17,7 +17,8 @@ If you’re looking for experienced talent to help your community understand how
 * What is the mission of your organization?
 * What challenges are most pressing to you or your customers?
 * Where do you think I can do the most good?
-* What is the makeup of the team/org structure?
+* What is the makeup of the team in terms of diversity?
+* What is the team/org structure?
 * How does the team/org contribute back to the community?
 * What is your interview process like?
 * What is your hiring timeline for this position?
