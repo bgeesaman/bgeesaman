@@ -6,7 +6,7 @@ My specialties are [building on](https://darkbit.io/blog/google-cloud-custom-iam
 
 **And I'm actively looking for my next opportunity!**
 
-* **Location:** Remote or Northern Virginia. (Remote preferred)
+* **Location:** Fully Remote
 * **Employment Type:** Full time employee
 * **Example Roles:** Security Advocacy, Product Security Research
 
