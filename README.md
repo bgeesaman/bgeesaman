@@ -8,7 +8,7 @@ My specialties are [building on](https://darkbit.io/blog/google-cloud-custom-iam
 
 * **Location:** Fully Remote
 * **Employment Type:** Full time employee
-* **Example Roles:** Security Advocacy, Product Security Research
+* **Example Roles:** Security Architect, Security Advocacy, Product Security Research
 
 For more details about my experience, **my CV/Résumé 📜 is directly available [online](https://bgeesaman.github.io) or as a [PDF](https://github.com/bgeesaman/bgeesaman.github.io/raw/main/BradGeesaman_CV.pdf)**
 
