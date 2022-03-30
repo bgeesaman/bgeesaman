@@ -1,6 +1,4 @@
-### *I'm not longer seeking employment, but I'm leaving this here as an example for others to borrow*
-
-## ~~Hire Brad Geesaman~~
+## Hire Brad Geesaman
 
 I'm **Brad Geesaman** 👋 , a Senior Cloud-Native and Kubernetes Security Professional with years of experience building and securing Google Cloud, AWS, and Kubernetes Security platforms at several organizations of varying scale.  I've been an active member of the Kubernetes community since 2017 and have focused on educating and guiding platform and security teams to run containerized workloads securely with minimal friction.  I am a strong advocate for migration to cloud-native and containerized workloads in accordance with the desired threat model and in balance with the needs of the business.
 
