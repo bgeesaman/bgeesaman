@@ -4,11 +4,11 @@ I'm **Brad Geesaman** 👋 , a Senior Cloud-Native and Kubernetes Security Profe
 
 My specialties are [building on](https://darkbit.io/blog/google-cloud-custom-iam-role-debugging-tricks), [attacking](https://youtu.be/vTgQLzeBfRU), and [hardening](https://darkbit.io/blog/gke-shielded-nodes) [Kubernetes](https://github.com/darkbitio/k8s-mirror), [Google Cloud](https://darkbit.io/blog/cve-2020-15157-containerdrip), and [AWS](https://github.com/OpenCSPM/opencspm) environments.  I enjoy [evaluating features and capabilities for their security posture](https://darkbit.io/blog/falco-rule-bypass), [demonstrating weaknesses through hands-on walkthroughs](https://youtu.be/JDUUdaZv1Dg?t=93), and [developing educational materials for end users](https://youtu.be/UdMFTdeAL1s) to be able to protect their own environments.  I know that security teams often lack deep Kubernetes expertise, and cloud infrastructure teams often lack deep security expertise.  I want to be in a position to bridge that gap and bring clarity to their day-to-day lives for a given issue.
 
-**And I'm actively looking for my next opportunity!**
+~~**And I'm actively looking for my next opportunity!**~~
 
 * **Location:** Fully Remote
 * **Employment Type:** Full time employee
-* **Example Roles:** Security Architect, Security Advocacy, Product Security Research
+* **Example Roles:** Security Researcher and Advocate
 
 For more details about my experience, **my CV/Résumé 📜 is directly available [online](https://bgeesaman.github.io) or as a [PDF](https://github.com/bgeesaman/bgeesaman.github.io/raw/main/BradGeesaman_CV.pdf)**
 
