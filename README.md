@@ -1,6 +1,6 @@
 ## Hello
 
-I'm **Brad Geesaman** 👋 , a Cloud Native Cyber Security Professional at [Ghost](ghost.security)
+I'm **Brad Geesaman** 👋 , a Cloud and AI Native Cyber Security Professional at [Ghost](ghost.security)
 
 In the past, I've been:
 - [building on](https://web.archive.org/web/20210529024602/https://darkbit.io/blog/google-cloud-custom-iam-role-debugging-tricks)
